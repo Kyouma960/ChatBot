@@ -94,8 +94,4 @@ This project is licensed under the [SELECT-A-LICENSE](https://choosealicense.com
 
 ## Acknowledgments
 
-- List any contributors or resources here.
 
----
-
-This is as minimal and clear as possible without extra fluff.
